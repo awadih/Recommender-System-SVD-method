@@ -23,3 +23,6 @@ movie_ids.text: contains the movie ids and the name of the movies.
 # Use Case
 
 As a use case the movies recommended for the User 12 in dataset has been listed.
+
+# Sources:
+1. 'Using Singular Value Decomposition to Build a Recommender System', Adrian Tam, October 29, 2021, [link](https://machinelearningmastery.com/using-singular-value-decomposition-to-build-a-recommender-system/)
